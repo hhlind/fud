@@ -1,3 +1,4 @@
 name: fud
-baseurl: /fud
+markdown: kramdown
+baseurl: fud
 permalink: none
